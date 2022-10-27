@@ -1,17 +1,3 @@
-<div style="text-align: center"></div>
-  <p align="center">
-  <img src="https://user-images.githubusercontent.com/42825450/193456424-cb4d255b-c87c-48bc-958c-f45acdc9ee21.png" width="250px" height="220px">
-      <br>
-      <i>Make the project development and release simpler, easier and more efficient.</i>
-  </p>
-</div>
-
-
-<h2>
-  <a href="https://www.dqzboy.com/">View My Blog</a>
-  <span> • </span>
-  <a href="https://www.dqzboy.com/9686.html">Docs</a>
-</h2>
 
 ## 功能
 
